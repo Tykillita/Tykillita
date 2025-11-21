@@ -1,6 +1,5 @@
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
- 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github)
  ## Hi, I'm Rubén (Tykillita) 🍜
 
 > *"🎓 Cybersecurity student at UTP."*<br/>
