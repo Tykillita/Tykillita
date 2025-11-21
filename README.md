@@ -1,5 +1,11 @@
  ## Hi, I'm Rubén (Tykillita) 🍜
 
+> *"🎓 Cybersecurity student at UTP."*<br/>
+> *"🚀 Full Stack & Game Dev in progress."*<br/>
+> *"🛠️ I build automated desktop apps to simplify my daily life."*
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tykillita" alt="tykillita" /> </p>
+
 🎓 Cybersecurity student at UTP<br/>
 🚀 Full Stack & Game Dev in progress<br/>
 🛠️ I build automated desktop apps to simplify my daily life<br/>
